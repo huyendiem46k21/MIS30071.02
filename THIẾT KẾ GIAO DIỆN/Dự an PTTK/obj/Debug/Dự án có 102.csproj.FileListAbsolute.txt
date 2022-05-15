@@ -1,0 +1,12 @@
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\bin\Debug\Dự án có 102.exe.config
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\bin\Debug\Dự án có 102.exe
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\bin\Debug\Dự án có 102.pdb
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\obj\Debug\Dự án có 102.csprojResolveAssemblyReference.cache
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\obj\Debug\Dự_án_có_102.Flogin.resources
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\obj\Debug\Dự_án_có_102.Properties.Resources.resources
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\obj\Debug\Dự án có 102.csproj.GenerateResource.Cache
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\obj\Debug\Dự án có 102.exe
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\obj\Debug\Dự án có 102.pdb
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\obj\Debug\Dự_án_có_102.Ftrangchu.resources
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\obj\Debug\Dự_án_có_102.Fbangbaocao.resources
+E:\Dự án đầu tay\Dự án có 102\Dự án có 102\obj\Debug\Dự_án_có_102.Fthongbao.resources
